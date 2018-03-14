@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Reddit</string>
+
+
+    <string name="postUrl">postUrl</string>
+    <string name="postThumbnail">postThumbnail</string>
+    <string name="postTitle">postTitle</string>
+    <string name="postAuthor">postAuthor</string>
+    <string name="postUpdated">postUpdated</string>
+    <string name="postId">postId</string>
+
+    <string name="userName">userName</string>
+    <string name="modHash">modHash</string>
+    <string name="cookie">cookie</string>
+
+
+    <string name="dummyText">Another excellent use of the CoordinatorLayout is with the CollapsingToolbar and Appbar. The CollapsingToolbar is another of the amazing features of the Android Support Design Library. For this activity, we are going to build a layout with a FAB that is anchored to the Appbar. The FAB scrolls with the Appbar, and disappears when the Appbar is collapsed.</string>
+    <string name="search_sub_reddit">Search sub-reddit</string>
+    <string name="search">Search</string>
+    <string name="loading_comments">Loading Comments...</string>
+    <string name="say_something">Say something...</string>
+    <string name="post_comment">Post Comment</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
